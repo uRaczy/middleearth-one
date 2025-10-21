@@ -1,8 +1,8 @@
-# Middle-earth Weather Project
+# Middle-earthone Weather Project
 
 ## Project Overview
 
-The **Middle-earth Weather Project** is a hobby project developed using **Next.js**, **TypeScript**, and **Tailwind**.  
+The **Middle-earthone Weather Project** is a hobby project developed using **Next.js**, **TypeScript**, and **Tailwind**.  
 The goal of this project is to demonstrate how to integrate a live weather API and visualize weather conditions within the world of **J.R.R. Tolkien's Middle-earth**.  
 
 The project showcases:  
