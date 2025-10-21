@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Middle-earth Weather Project
+
+## Project Overview
+
+The **Middle-earth Weather Project** is a hobby project developed using **Next.js**, **TypeScript**, and **Tailwind**.  
+The goal of this project is to demonstrate how to integrate a live weather API and visualize weather conditions within the world of **J.R.R. Tolkien's Middle-earth**.  
+
+The project showcases:  
+- Fetching and displaying real-time weather data.  
+- Mapping weather information to locations in Middle-earth.  
+- A simple, clean frontend built with modern web technologies.  
+
+This project is intended for learning, experimentation, and as a portfolio piece.
+
+## Map Attribution / License
+
+The map used in this project is sourced from [mapome by k1tesurfen](https://github.com/k1tesurfen/mapome) and is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
+
+Any modifications to the map within this project are also shared under the same license. Proper credit is given to the original author.
 
 ## Getting Started
 
